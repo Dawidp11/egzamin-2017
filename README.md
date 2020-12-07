@@ -1,1 +1,1 @@
-# egzamin-2017  nie umiem znaleść  błemdu w skrypcjie 
+# egzamin-2017  nie umiem znaleść  błendu w skrypcjie 
