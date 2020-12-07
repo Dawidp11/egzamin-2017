@@ -1,0 +1,3 @@
+SELECT `id`,`marka`,`model`FROM `samochody` WHERE 1
+SELECT `id`,`Klient` FROM `zamowienia` WHERE 1
+SELECT * FROM `samochody` WHERE `marka` = "Fiat"
